@@ -2,8 +2,8 @@
 
     "mail" : {
         "id": "cultrang@iitgoa.ac.in",
-        "passwword": "headingfor2021"
+        "passwword": ""
     },
     
-    "mongoURI": "mongodb+srv://namami:9Yuo0eIB2C6WmiDb@cluster0.pch9l.mongodb.net/participants?retryWrites=true&w=majority"
+    "mongoURI": ""
 }
